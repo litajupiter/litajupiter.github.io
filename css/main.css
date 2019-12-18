@@ -1,0 +1,8 @@
+body {
+  background: linear-gradient(to left, #a18cd1 0%, #fbc2eb 100%);
+}
+
+#profile {
+  border-radius: 50%;
+  width: 300px;
+}
